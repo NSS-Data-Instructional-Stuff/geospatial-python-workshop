@@ -39,4 +39,4 @@ conda deactivate
     - popups
 ##### notebooks
 - geospatial_intro.ipynb (geopandas and foilum)
-- matplotlib_subplots.ipynb (matplotlib styling of geoplots in latter part of notebook)
+- choropleth_tutorial.ipynb (geopandas choropleth)
